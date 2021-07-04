@@ -57,4 +57,4 @@ if __name__ == '__main__':
                     'cookie': item['cookie']
                 }
             get_page(item)
-        time.sleep(43200)
+        time.sleep(43200) #根据需求选择重复执行时间，时间单位为秒
