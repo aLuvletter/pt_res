@@ -1,111 +1,13 @@
 [
   {
     "site": "PTHOME",
-    "url": "https://www.pthome.net/attendance.php",
-    "referer": "https://www.pthome.net/index.php",
+    "url": "",
+    "referer": "",
     "cookie": ""
   },
     {
-    "site": "PterClub",
-    "url": "https://pterclub.com/attendance-ajax.php",
-    "cookie": ""
-  },
-  {
-    "site": "Lemonhd",
-    "url": "https://lemonhd.org/attendance.php",
-    "cookie": ""
-  },
-  {
-    "site": "KeepFrds",
-    "url": "https://lemonhd.org/attendance.php",
-    "cookie": ""
-  },
-  {
-    "site": "SouLvoice",
-    "url": "https://pt.keepfrds.com/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "HDATMOS",
-    "url": "https://hdatmos.club/attendance.php",
-    "cookie": ""
-  },
-  {
-    "site": "HDZONE",
-    "url": "http://hdzone.me/attendance.php",
-    "cookie": ""
-  },
-  {
-    "site": "HAIDAN",
-    "url": "https://www.haidan.video/signin.php",
-    "referer": "https://www.haidan.video/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "HDTIME",
-    "url": "https://hdtime.org/attendance.php",
-    "cookie": ""
-  },
-  {
-    "site": "HDAI",
-    "url": "http://www.hd.ai/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "HDBD",
-    "url": "https://pt.hdbd.us/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "PTMSG",
-    "url": "https://pt.msg.vg/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "HDFANS",
-    "url": "https://hdfans.org/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "CCF",
-    "url": "http://ccfbits.org/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "3WMG",
-    "url": "https://www.3wmg.com/attendance.php",
-    "cookie": ""
-  },
-  {
-    "site": "DIC",
-    "url": "https://dicmusic.club/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "U2",
-    "url": "https://u2.dmhy.org/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "MTEAM",
-    "url": "https://kp.m-team.cc/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "GPW",
-    "url": "https://greatposterwall.com/index.php",
-    "cookie": ""
-  },
-  {
-    "site": "HDAREA",
-    "url": "https://www.hdarea.co/sign_in.php",
-    "referer": "https://www.hdarea.co/faq.php",
-    "action": "sign_in",
-    "cookie": ""
-  },
-  {
-    "site": "HUIJVTT",
-    "url": "http://huijvtt.com/index.php",
+    "site": "",
+    "url": "",
     "cookie": ""
   }
 ]
