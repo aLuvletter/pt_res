@@ -24,8 +24,8 @@ python3 pt.py
 ```
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705181505.png)
 
-# 签到方式
-自行根据站点特性以及签到需求选择以下签到方式:
+# 添加站点及签到方式
+在site.json文件中自行根据站点特性以及签到需求选择以下签到方式添加站点:
 通用签到方式:
 ```
 {
