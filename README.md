@@ -3,7 +3,7 @@
 1.上传本项目文件至服务器</br></br>
 
 2.在Python项目管理器中添加项目并配置项目</br>
-![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705180354.png)
+![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705180355.png)
 <h2>使用定时任务方式启动</h2>
 
 1.上传本项目文件至服务器</br></br>
