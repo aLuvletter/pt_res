@@ -8,7 +8,11 @@
 
 1.上传本项目文件至服务器</br></br>
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705180447.png)
-2.删除pt.py文件中最后一行内容
+2.删除pt.py文件中
+```
+while True:
+```
+删除最后一行内容
 ```
 time.sleep(43200)
 ```
