@@ -91,7 +91,7 @@ python3 pt.py
 签到方式4站点:HDAREA</br></br>
 签到方式5站点:PterClub</br></br>
 
-#Updata log
+# Updata log
 <h2>2021-10-16</h2>
 
 1. 新增爱语飞飞微信通知推送;
