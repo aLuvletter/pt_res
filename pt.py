@@ -70,5 +70,5 @@ if __name__ == '__main__':
     now_time = '%3Ccenter%3E%3Cb%3E%3Cfont%20color%3D%22%2355a7e3%22%3E' + parse.unquote(time) + '%3C%2Ffont%3E%3C%2Fb%3E%3C%2Fcenter%3E%3Cbr%3E'
     send_txts = ''.join(send_txt)
     api = 'http://iyuu.cn/IYUU4479Td53ed283c8ee4ec7783c08893523c722179d9067.send'
-    sen_url = api + '?text=PT%E7%AD%BE%E5%88%B0%E5%8A%A9%E6%89%8B&desp=' + now_time + send_txts
+    sen_url = api + '?text=PT%E7%AD%BE%E5%88%B0%E5%8A%A9%E6%89%8B_v2.0&desp=' + now_time + send_txts
     response = requests.get(sen_url, headers=headers)
