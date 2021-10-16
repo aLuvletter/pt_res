@@ -1,5 +1,5 @@
 # 食用说明
-<h2>使用Python项目管理器部署[Python3.X版本]</h2>
+<del><h2>使用Python项目管理器部署[Python3.X版本]</h2>
 1.上传本项目文件至服务器</br></br>
 
 2.在Python项目管理器中添加项目并配置项目</br>
@@ -26,7 +26,7 @@ python3 -m pip install requests
 cd /xxxxx/pt
 python3 pt.py
 ```
-![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705181505.png)
+![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705181505.png)</del>
 
 # 添加站点及签到方式
 在site.json文件中自行根据站点特性以及签到需求选择以下签到方式添加站点</br>
