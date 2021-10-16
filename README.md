@@ -1,11 +1,6 @@
 # 食用说明
-<h2>使用Python项目管理器部署[Python3.X版本]</h2>
-~~1.上传本项目文件至服务器~~</br></br>
-
-~~2.在Python项目管理器中添加项目并配置项目~~</br>
-![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705180355.png)
 <h2>使用定时任务方式启动</h2>
-1.访问(http://iyuu.cn/)，使用微信扫码获取Token的api链接.
+1.访问[IYUU](http://iyuu.cn/)，使用微信扫码获取Token的api链接.
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/2021101616404050.png)
 2.往下拉动页面复制包含token的api链接.
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/2021101616424205.png)
