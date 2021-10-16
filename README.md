@@ -29,6 +29,10 @@ python3 pt.py
 ```
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705181505.png)
 
+<h2>微信推送效果<h2>
+
+![pt](https://github.com/aLuvletter/pt_res/blob/main/images/042D032D23E73FD19B0F818993EF3E91.png)
+
 # 添加站点及签到方式
 在site.json文件中自行根据站点特性以及签到需求选择以下签到方式添加站点</br>
 通用签到方式:
