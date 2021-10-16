@@ -6,7 +6,7 @@
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/2021101616424205.png)
 3.上传项目文件至服务器</br></br>
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705180447.png)
-4.在pt.py文件中把api链接填充进去保存.
+4.在pt.py文件中把api链接填充进去后保存.
 ```
 api = ''
 ```
