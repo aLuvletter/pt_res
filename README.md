@@ -17,12 +17,12 @@ api = ''
 ```
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/2021101617161603.png)
 
-3.在终端处安装requests库
+5.在终端处安装requests库
 ```
 python3 -m pip install requests
 ```
 ![pt](https://github.com/aLuvletter/pt_res/blob/main/images/QQ%E6%88%AA%E5%9B%BE20210705181335.png)
-3.根据需求选择执行周期，脚本内容根据项目上传路径自行修改:
+6.根据需求选择执行周期，脚本内容根据项目上传路径自行修改:
 ```
 cd /xxxxx/pt
 python3 pt.py
