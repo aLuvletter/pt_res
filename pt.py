@@ -24,7 +24,7 @@ def get_page(item):
             if '签到成功' in response or '恭喜您' in response:
                 site = ok_site + item['site'] + res_ok
                 send_txt.append(site)
-            elif '重复刷新' in response or '重复' in response or '簽到過' in response or '已经打卡' or '签到过' in response:
+            elif '重复刷新' in response or '重复' in response or '簽到過' in response or '已经打卡' in response or '签到过' in response:
                 site = ok_site + item['site'] + res_ok
                 send_txt.append(site)
             elif '首页' or '首頁' in response:
